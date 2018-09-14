@@ -1,0 +1,11 @@
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\obj\Debug\netcoreapp2.0\CarregarCotacoes.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\obj\Debug\netcoreapp2.0\CarregarCotacoes.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\obj\Debug\netcoreapp2.0\CarregarCotacoes.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\bin\Debug\netcoreapp2.0\CarregarCotacoes.deps.json
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\bin\Debug\netcoreapp2.0\CarregarCotacoes.runtimeconfig.json
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\bin\Debug\netcoreapp2.0\CarregarCotacoes.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\bin\Debug\netcoreapp2.0\CarregarCotacoes.dll
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\bin\Debug\netcoreapp2.0\CarregarCotacoes.pdb
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\obj\Debug\netcoreapp2.0\CarregarCotacoes.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\obj\Debug\netcoreapp2.0\CarregarCotacoes.dll
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\CarregarCotacoes\obj\Debug\netcoreapp2.0\CarregarCotacoes.pdb

@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\bin\Debug\Scripts.dacpac
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\bin\Debug\Scripts.dll
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\bin\Debug\Scripts.pdb
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\obj\Debug\Scripts.sqlprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\obj\Debug\Model.xml
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\obj\Debug\refactor.xml
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\obj\Debug\postdeploy.sql
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\obj\Debug\predeploy.sql
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\obj\Debug\Scripts.dll
+C:\Users\Marcelo\Desktop\RabbitMQ-DotnetCore2-Selenium-master\ExemploRabbitMQ\Scripts\obj\Debug\Scripts.pdb
